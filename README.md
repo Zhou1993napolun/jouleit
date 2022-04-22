@@ -1,5 +1,10 @@
 # jouleit(written by Tan Ying)
 
+# Active conda env
+```
+conda activate rapl
+```
+
 # Install (if not)
 ```
 sudo apt install gawk
