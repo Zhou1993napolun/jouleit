@@ -1,4 +1,31 @@
-# jouleit
+# jouleit(written by Tan Ying)
+
+# Install (if not)
+```
+sudo apt install gawk
+cd ty
+git clone https://github.com/powerapi-ng/jouleit
+```
+
+# Use
+```
+cd ty/jouleit/
+```
+## Run one time
+```
+sudo ./jouleit.sh 
+```
+## Run N time
+```
+sudo ./jouleit.sh -n N
+```
+saved in a csv file
+
+
+
+
+
+# jouleit(original)
 A repository of scripts that can be used to monitor energy consumption for any program.
 
 
